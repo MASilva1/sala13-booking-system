@@ -1,0 +1,9 @@
+# Google Apps Script / local editor artifacts
+.clasp.json
+.env
+.env.*
+!.env.example
+node_modules/
+.DS_Store
+Thumbs.db
+*.log
