@@ -1,6 +1,9 @@
 <!-- Independent portfolio repository. Historical sanitized source snapshot. -->
 # Sala 13 | Meeting Room Booking & Administrative Automation
 
+[![Static checks](https://github.com/MASilva1/sala13-booking-system/actions/workflows/static-checks.yml/badge.svg)](https://github.com/MASilva1/sala13-booking-system/actions/workflows/static-checks.yml) · [Technical audit](docs/auditoria-tecnica-2026-11.md) · [Static validation script](scripts/validate-source.mjs)
+
+
 **Live institutional use case · Google Apps Script + JavaScript · Administrative process improvement**
 
 **EN — Project overview.** As an administrative area manager at a public university in Argentina, I identified recurring scheduling conflicts and time lost coordinating a shared meeting room. I designed and implemented a web-based self-service booking system integrated with Google Calendar, Google Sheets and email notifications. It supports availability checks, recurring bookings, modification/cancellation flows and pre-meeting reminders. The team reported an **estimated 80% reduction in administrative coordination time** in early use (informal operational estimate, not audited). AI-assisted coding supported development; the running booking platform **does not use a generative AI model**. This repository contains a sanitized September 2026 source snapshot and may differ from the current institutional deployment.
