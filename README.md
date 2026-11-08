@@ -11,6 +11,32 @@
 
 ---
 
+## 📸 Product walkthrough | Capturas reales del sistema
+
+Estas capturas muestran la interfaz del proyecto, preparada para portfolio: sin las pestañas del navegador y con las reservas anonimizadas. No son un diseño conceptual; corresponden al sistema desarrollado.
+
+### 1. Agenda y disponibilidad | Calendar & availability
+
+![Calendario mensual del sistema de reservas Sala 13, con datos anonimizados](assets/01-calendario-disponibilidad.png)
+
+**Qué demuestra:** consulta visual de disponibilidad, reservas ocupadas y navegación por calendario. La oficina deja de responder manualmente cada consulta sobre horarios.
+
+### 2. Autogestión | Booking actions
+
+![Menú de acciones para crear, modificar o cancelar una reserva](assets/02-acciones-reserva.png)
+
+**Qué demuestra:** un mismo punto de entrada para crear, modificar o cancelar reservas; menos intercambios y un circuito de gestión más claro.
+
+### 3. Solicitud digital | Booking form
+
+![Formulario de nueva reserva con datos vacíos, selección de fecha y horario](assets/03-formulario-reserva.png)
+
+**Qué demuestra:** captura estructurada de datos, selección de fecha y horario, modalidad de reserva y aceptación de condiciones antes de enviar.
+
+> **Portfolio note:** Capturas tomadas de la interfaz institucional y preparadas para difusión; los datos de reservas se anonimizaron. No constituyen evidencia de tests automatizados ni una certificación de resultados de rendimiento.
+
+---
+
 ## Caso completo en español
 
 **Caso real de transformación digital en la Universidad Nacional de San Juan (Argentina)**
