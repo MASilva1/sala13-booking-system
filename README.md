@@ -7,7 +7,7 @@
 
 **Key skills:** requirements gathering · process improvement · JavaScript · HTML/CSS · Google Apps Script · Calendar/Sheets integration · email automation · AI-assisted development · human oversight.
 
-[**Institutional booking site**](https://tinyurl.com/sala13idei) · [**Source code**](src/) · [**Architecture**](docs/arquitectura.md) · [**Business case**](docs/caso-de-negocio.md) · [**Deployment notes**](docs/despliegue.md)
+[**Institutional booking site**](https://tinyurl.com/sala13idei) · [**Source code**](src/) · [**Architecture**](docs/arquitectura.md) · [**Business case**](docs/caso-de-negocio.md) · [**Deployment notes**](docs/despliegue.md) · [**Technical audit (Nov 2026)**](docs/auditoria-tecnica-2026-11.md)
 
 ---
 
