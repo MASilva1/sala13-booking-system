@@ -144,3 +144,5 @@ La mejora importante no es solo ahorrar minutos: es pasar de un proceso dependie
 
 
 > **Disclosure:** Este repositorio independiente reutiliza una copia sanitizada de un proyecto documentado en mi [portfolio general](https://github.com/MASilva1/mi-primer-proyecto). Su publicación no implica autorización para utilizar datos institucionales, ni es un producto oficial de la UNSJ.
+
+**Perfil profesional del autor:** [LinkedIn — Matías Andrés Silva](https://www.linkedin.com/in/matysilv/) · [Portfolio en GitHub](https://github.com/MASilva1).
